@@ -1,0 +1,58 @@
+tr{
+    padding:10%
+}
+td{
+    padding: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 20%;
+}
+body{
+    background-color:#008000cb
+}
+h1{
+    color:orange;
+    text-align:center;
+}
+#file{
+    padding: 10%;
+}
+.submit{
+    color:blue;
+    width: 300px;  
+height: 300px;  
+margin: auto;  
+
+}
+input[type="submit"]{
+    color:blue;
+    background-color:orange;
+    align-items:center;
+    display: block;
+    position: relative;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+}
+input[type="submit"]:hover{
+    color:green;
+}
+input[type="file"]{
+    color:blue;
+    background-color:orange;
+    align-items:center;
+    display: block;
+    position: relative;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+}
+input[type="file"]:hover{
+    color:green;
+}
